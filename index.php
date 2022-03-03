@@ -53,22 +53,22 @@
     <div class="carousel-item active">
       <img src="images/ast1.jpg" alt="Los Angeles" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>We had such a great time in LA!</p>
+        <h3>SMILE!</h3>
+        <p>Happiness depends on ourselves.</p>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="images/ast2.jpg" alt="Chicago" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+        <h3>YOU'RE UNIQUE!</h3>
+        <p>Whatever you are, be a good one.</p>
       </div>   
     </div>
     <div class="carousel-item">
       <img src="images/ast3.jpg" alt="New York" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+        <h3>DREAM BIG!</h3>
+        <p>Make each day your masterpiece.</p>
       </div>   
     </div>
   </div>
@@ -92,7 +92,10 @@
       </div>
       <div class="col-lg-6 col-md-6 col-12">
         <h2 class="display-4">We are "SPREAD LOVE❤️"</h2>
-        <p class="py-3 display-5">Stress is part of being human, and it can help motivate you to get things done.</p>
+        <p class="py-3 display-5">There is a lot of stress in the world nowadays. What we need today is
+            a reason to be happy. Amidst this pandemic, we want to help you out by giving you the 
+            oppurtunity to share your comments with us so we could reach out to you and try to 
+            help you in any way possible. Be happy because your smile lights up this world!</p>
         <a href="about.php" class="btn btn-success">know us better :)</a>
       </div>
     </div>
@@ -198,7 +201,7 @@
         </div>
         <div class="form-group">
           <label>Anything you would like to share with us?</label>
-          <textarea class="form-control">
+          <textarea class="form-control" name="comments">
 
           </textarea>
           </div>
